@@ -307,3 +307,27 @@
 [submodule "pi22-3/tanya-pyzhyanova"]
 	path = pi22-3/tanya-pyzhyanova
 	url = https://github.com/Adrenaline22/tanya-pyzhyanova
+[submodule "pi22-2/Starikov_PI_22_2"]
+	path = pi22-2/Starikov_PI_22_2
+	url = https://github.com/Qwertysonman/Starikov_PI_22_2
+[submodule "pi22-3/Kartashov"]
+	path = pi22-3/Kartashov
+	url = https://github.com/basilio-bellini/Kartashov.git
+[submodule "pi22-3/Karavaeva"]
+	path = pi22-3/Karavaeva
+	url = https://github.com/DinashaK/Karavaeva
+[submodule "pi22-3/She"]
+	path = pi22-3/She
+	url = https://github.com/Megamanek/She
+[submodule "pi22-2/Ermakov_fa-np-practice"]
+	path = pi22-2/Ermakov_fa-np-practice
+	url = https://github.com/vladermik/Ermakov_fa-np-practice
+[submodule "pi22-2/Trunov-fa-np-practice"]
+	path = pi22-2/Trunov-fa-np-practice
+	url = https://github.com/JuanTrunov/Trunov-fa-np-practice
+[submodule "pi22-2/samoylov_fa-np-practice"]
+	path = pi22-2/samoylov_fa-np-practice
+	url = https://github.com/GodWar101/samoylov_fa-np-practice
+[submodule "pi22-3/fa-np-practice"]
+	path = pi22-3/fa-np-practice
+	url = https://github.com/MrDrups/fa-np-practice
